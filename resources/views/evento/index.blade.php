@@ -44,11 +44,11 @@
                             </div>
                             <div class="mb-3">
                                 <label for="start" class="form-label">Inicio</label>
-                                <input type="text" class="form-control" name="start" id="start" placeholder="Hora de inicio">
+                                <input type="date" class="form-control" name="start" id="start" placeholder="Hora de inicio">
                             </div>
                             <div class="mb-3">
                                 <label for="end" class="form-label">Inicio</label>
-                                <input type="text" class="form-control" name="end" id="end" placeholder="Hora de termino">
+                                <input type="date" class="form-control" name="end" id="end" placeholder="Hora de termino">
                             </div>
 
 
